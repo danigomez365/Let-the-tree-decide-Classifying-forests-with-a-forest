@@ -1,4 +1,4 @@
-#final project -mgsc 401 
+#LET THE TREE DECIDE: CLASSIFYING FORESTS WITH A FOREST
 
 #packages
 install.packages(c("janitor", "ggplot2")) 
